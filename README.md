@@ -46,5 +46,18 @@ TroyKKT *REACTS* to keyloggerGui
 
 ![omg!](omg.gif)
 
+Change the Gui to what _YOU_ want it to be!
+
+![your way](yourway.png)
+![your way cap](yourwaycap.png)
+
+Make it take up the whole screen, because you're the master of your own destiny and refuse to conform to ideas of "appropriate font size"!
+
+![pekaboo](pekaboo.gif)
+
+Use this keylogger Gui and this could be you:
+
+![tkstars](tko_stars.gif)
+
 
 
