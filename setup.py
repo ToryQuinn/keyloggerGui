@@ -21,7 +21,7 @@ setup(
     install_requires=dependencies,
     entry_points={
         'console_scripts': [
-            'klg = keyloggerGui.cli:main',
+            'klg = src.keyloggerGui.cli:main',
         ],
     },
     classifiers=[
