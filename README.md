@@ -4,6 +4,25 @@ I wanted a simple cross platform GUI that could capture my keystrokes.  I know t
 
 To be honest though, like most little projects I do, it's more about the S n' Gs, just seeing if I can do it, and showing others that it can be done.  Seriously, I basically just googled around for a couple hours and bs'd on twitch while I wrote this.
 
+### In Action
+
+TroyKKT *REACTS* to keyloggerGui
+
+![omg!](omg.gif)
+
+Change the Gui to what _YOU_ want it to be!
+
+![your way](yourway.png)
+![your way cap](yourwaycap.png)
+
+Make it take up the whole screen, because you're the master of your own destiny and refuse to conform to ideas of "appropriate font size"!
+
+![pekaboo](pekaboo.gif)
+
+Use this keylogger Gui and this could be you:
+
+![tkstars](tko_stars.gif)
+
 ### Installing
 
 I made a setup.py script, so theoretically you should be able to install this (along with the cli script "klg") and run the tool / import it.  Installing on windows seems to work fine, but I can't seem to figure out how to run the cli script (maybe it's because I borked the setup script, or maybe it's because windows is annoying as a dev environment).
@@ -40,24 +59,7 @@ If you want to quit the keylogger without having to find the gosh dern window, o
 If you want to know what kinds of things you can change by passing in command line options, then read the output of the `--help` command, that's what it's there for ya _dingus_.
 
 
-### In Action
 
-TroyKKT *REACTS* to keyloggerGui
-
-![omg!](omg.gif)
-
-Change the Gui to what _YOU_ want it to be!
-
-![your way](yourway.png)
-![your way cap](yourwaycap.png)
-
-Make it take up the whole screen, because you're the master of your own destiny and refuse to conform to ideas of "appropriate font size"!
-
-![pekaboo](pekaboo.gif)
-
-Use this keylogger Gui and this could be you:
-
-![tkstars](tko_stars.gif)
 
 
 
